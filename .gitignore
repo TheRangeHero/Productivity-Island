@@ -41,6 +41,7 @@ Productivity_Island_Unity/ExportedObj/
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.suo
 *.tmp
 *.user
