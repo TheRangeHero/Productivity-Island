@@ -67,6 +67,12 @@ Productivity_Island_Unity/ExportedObj/
 # Crashlytics
 crashlytics-build.properties
 
+
+# Asset Store (license restricted) - do not commit to public repo
+Productivity_Island_Unity/Assets/ThirdPartyAssets/vHierarchy/
+Productivity_Island_Unity/Assets/ThirdPartyAssets/vHierarchy.meta
+
+
 # TestRunner
 Productivity_Island_Unity/[Ii]nit[Tt]est[Ss]cene*.unity*
 
